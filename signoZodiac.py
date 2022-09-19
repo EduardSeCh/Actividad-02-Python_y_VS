@@ -1,7 +1,6 @@
 #Input
 dia = int(input("Hola!\nDame tu dia de nacimiento: "))
 mes = int(input("Ahora tu mes: "))
-meses = [1,2,3,4,5,6,7,8,9,10]
 signo = ""
 #Logic
 if(mes == 1): #Enero
